@@ -119,7 +119,6 @@ ul li::before{
 
 @media (max-width: 600px) {
     .todo-app{
-        width: 100%;
         max-width: 400px;
         background: #c269c386;
         border-radius: 5px;
